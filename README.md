@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/99384019/229348961-116bf320-c4da-40a8-99c0-f1a8422358d4.png)
 
-Evidence Item : ATM Skimming Device micro-SD 
+Evidence Item : ATM Skimming Device micro-SD <br>
 Filename : 1_Skimmer_mSD.zip <br>
 SHA2-256 : 1c5ad394daa49573f4088a31fb7f6a3f537dbcd092fdfd5abc8b572ebedbc262 <br>
 
@@ -25,9 +25,9 @@ CC Number: 4334 2250 2436 4939
 
 ![image](https://ss7.vzw.com/is/image/verizondsc/insert_card_tray-2)
 
-Evidence Item : Samsung Galaxy S10 micro-SD
+Evidence Item : Samsung Galaxy S10 micro-SD <br>
 Filename: 3_Samsung GSM_SM-G973F_DS Galaxy S10.zip <br>
-SHA2-256: 54877505f1b4eb26c4cb6b43fd6338424660c207e678b773044a4a79d6e374b7
+SHA2-256: 54877505f1b4eb26c4cb6b43fd6338424660c207e678b773044a4a79d6e374b7 <br>
 
 Based on information obtained from the forensic analysis of the previous evidence, it was possible to identify an individual of interest who was arrested in Geneva on of April 20th, 2021 at 18:30 while trying to board a plane using a ticket bought with a stolen CC. 
 
